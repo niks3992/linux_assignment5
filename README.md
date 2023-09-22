@@ -10,8 +10,10 @@
 6. Write a shell script takes the name a path, and counts all the sub directories.
    **https://github.com/niks3992/linux_assignment5/blob/main/path_line_count.sh**
 7. Write a shell script that takes a name of a folder as a command line argument, and produce a file that contains the names of all sub folders with size 0.
+   **https://github.com/niks3992/linux_assignment5/blob/main/count_empty_folder.sh**   **https://github.com/niks3992/linux_assignment5/blob/main/empty.txt**
 8. Write a shell script that takes a name of a folder, and delete all sub folders of size 0.
+   **https://github.com/niks3992/linux_assignment5/blob/main/remove_empty.sh**
 9. Write a shell script that will take an input file and remove identical lines.
     **https://github.com/niks3992/linux_assignment5/blob/main/remove_repeated_line.sh   https://github.com/niks3992/linux_assignment5/blob/main/repeated.txt**
-11. Write a shell scripts to count number of vowels in “vowels.txt” file ignoring the case.
+10. Write a shell scripts to count number of vowels in “vowels.txt” file ignoring the case.
     **https://github.com/niks3992/linux_assignment5/blob/main/vowel_count.sh     https://github.com/niks3992/linux_assignment5/blob/main/vowels.txt**
