@@ -1,0 +1,4 @@
+"enter the full path of the folder"
+read path
+find $path -type d -empty -print > empty.txt
+
